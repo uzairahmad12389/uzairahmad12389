@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uzairahmad12389 .I am student of FAST LAHORE PAKISTAN.I am doing Softwear engineering here.
+- 👋 Hi, I’m @uzairahmad12389 .I am student of FAST LAHORE PAKISTAN.I am doing Software engineering here.
 - 👀 I’m interested in website mostly in frontend
 
 **Connect with me:

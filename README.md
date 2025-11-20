@@ -1,17 +1,29 @@
-- 👋 Hi, I’m @uzairahmad12389 .I am student of FAST LAHORE PAKISTAN.I am doing Software engineering here.
-- 👀 I’m interested in website mostly in frontend
+Hi, I'm Uzair Ahmad 👋
 
-**Connect with me:
-  mr.afzal606@gmail.com**
+Software Engineering Student | Full-Stack Developer | Problem Solver
 
+I'm currently pursuing my Bachelor's in Software Engineering from FAST NUCES, Lahore. I have a strong foundation in core computer science concepts, including:
 
-  
-****💻 Tech Stack:**
+Programming Fundamentals
+Object-Oriented Programming (OOP)
+Data Structures & Algorithms (DSA)
+Database Systems
+Operating Systems (OS)
 
+My interest lies deeply in programming, building scalable applications, and solving challenging problems.
 
-C++ CSS3 HTML5 JavaScript React **
+🚀 Skills & Technologies
 
-<!---
-uzairahmad12389/uzairahmad12389 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Programming Languages
+Java
+C++
+C
+Python
+JavaScript
+
+🌐 Full-Stack Development
+
+Frontend: React.js
+Backend: Node.js, Express.js
+Databases: MySQL / SQL, MongoDB
+Tools: Git, GitHub, VS Code

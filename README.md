@@ -1,29 +1,66 @@
-Hi, I'm Uzair Ahmad 👋
+Hi 👋, I'm Uzair Ahmad
 
-Software Engineering Student | Full-Stack Developer | Problem Solver
+A passionate Software Engineering Student and Full-Stack Developer from Pakistan
 
-I'm currently pursuing my Bachelor's in Software Engineering from FAST NUCES, Lahore. I have a strong foundation in core computer science concepts, including:
+💡 I love building scalable applications, solving complex problems, and working with modern web technologies.
 
-1-Programming Fundamentals
-2-Object-Oriented Programming (OOP)
-3-Data Structures & Algorithms (DSA)
-4-Database Systems
-5-Operating Systems (OS)
+🌱 About Me
 
-My interest lies deeply in programming, building scalable applications, and solving challenging problems.
+🎓 Pursuing BS Software Engineering from FAST NUCES, Lahore
 
-🚀 Skills & Technologies
+💻 Strong grip on core CS concepts:
+1- Programming Fundamentals | 2- OOP | 3- DSA | 4- Database Systems | 5- Operating Systems
 
-💻 Programming Languages
-1-Java
-2-C++
-3-C
-4-Python
-5-JavaScript
+❤️ Passionate about programming, software development, and creating real-world solutions
 
-🌐 Full-Stack Development
+🔥 I enjoy working on exciting projects and learning new technologies 
 
-1-Frontend: React.js
-2-Backend: Node.js, Express.js
-3-Databases: MySQL / SQL, MongoDB
-4-Tools: Git, GitHub, VS Code
+📫 Connect with me
+Email: mr.afzal606@gmail.com
+
+GitHub: github.com/uzairahmad12389
+
+LinkedIn: linkedin.com/in/uzair-ahmad-058a05325
+
+💻 Tech Stack
+🌐 Frontend
+
+React.js
+
+HTML, CSS, JavaScript
+
+⚙️ Backend
+
+Node.js
+
+Express.js
+
+Python (Flask backend experience)
+
+🛠️ Languages
+
+Java
+
+C++
+
+C
+
+Python
+
+JavaScript
+
+🗄️ Databases
+
+MySQL
+
+SQL
+
+MongoDB
+
+🛠️ Tools
+
+Git & GitHub
+
+VS Code
+
+Postman

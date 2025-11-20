@@ -1,3 +1,6 @@
+![Profile Image](Uzair.png)
+
+
 Hi 👋, I'm Uzair Ahmad
 
 A passionate Software Engineering Student and Full-Stack Developer from Pakistan
